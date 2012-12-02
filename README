@@ -1,8 +1,15 @@
 Some of the capabilities of the table library are shown below::
 
-    from table import Table
+from table import Table
 
-    table = Table(["1", "2", "3"], ["a", "b"], [[1, 2], [3, 4], [5, 6]])
+    table = Table(
+        ["1", "2", "3"] # row names,
+        ["a", "b"]      # column names,
+        [[1, 2],        # initial values
+         [3, 4],
+         [5, 6]]
+    )
+
     print "Whole table:"
     print table
 
