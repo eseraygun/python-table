@@ -1,6 +1,6 @@
 Some of the capabilities of the table library are shown below::
 
-from table import Table
+    from table import Table
 
     table = Table(
         ["1", "2", "3"] # row names,
