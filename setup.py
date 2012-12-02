@@ -7,7 +7,7 @@ setup(
     name='table',
     version=version,
     py_modules=['table'],
-    url='',
+    url='http://github.com/eseraygun/python-table',
     license='BSD (2-clause)',
     author='Eser Aygün',
     author_email='eser.aygun@gmail.com',
