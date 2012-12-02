@@ -1,4 +1,4 @@
-Some of the capabilities of the table library is shown below.
+Some of the capabilities of the table library are shown below::
 
     from table import Table
 
@@ -18,7 +18,7 @@ Some of the capabilities of the table library is shown below.
     print "A range:"
     print table["2":, :]
 
-The library also provides basic I/O capability for simple delimited files and standard CSV files:
+The library also provides basic I/O capability for simple delimited files and standard CSV files::
 
     table1 = readTableFromDelimited(f)
     table2 = readTableFromCSV(f)

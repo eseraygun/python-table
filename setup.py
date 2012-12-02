@@ -11,6 +11,6 @@ setup(
     license='BSD (2-clause)',
     author='Eser Aygün',
     author_email='eser.aygun@gmail.com',
-    description='Provides a two-dimensional table class with named rows and columns, and related I/O utilities.',
+    description='Two-dimensional tables backed by Numpy with named rows and columns.',
     requires=['numpy']
 )
