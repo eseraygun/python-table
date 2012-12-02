@@ -22,7 +22,7 @@
 import numpy
 import csv
 
-__version__ = "0.0.3"
+__version__ = "0.0.4"
 
 class Table(object):
     """
