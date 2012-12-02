@@ -1,7 +1,9 @@
 Python Table Library
 ====================
 
-Some of the capabilities of the library is shown below.
+Two-dimensional tables backed by Numpy with named rows and columns.
+
+Some of the capabilities of the library are shown below:
 
     from table import Table
 
